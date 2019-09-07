@@ -21,7 +21,7 @@ function resizeButtonPeople() {
 }                                    
 
 
-window.onload = function () {
+window.onload = function () {  //FIRST WE NEED RUN 
 
   resizeButtonPeople();
 
